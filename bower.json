@@ -1,0 +1,28 @@
+{
+  "name": "requirejs-i18n-themed",
+  "main": "i18n.js",
+  "version": "2.0.4",
+  "homepage": "https://github.com/bannaN/i18n",
+  "authors": [
+    "Joakim"
+  ],
+  "description": "A fork of the official requirejs i18n plugin with additional features for loading i18n packages based on a theme",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "requirejs",
+    "i18n"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.16"
+  }
+}
